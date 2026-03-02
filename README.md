@@ -1,2 +1,1 @@
-# StudioX-Ultimate
-Script de clonagem profissional com proteções e 150 keys
+loadstring(game:HttpGet("https://raw.githubusercontent.com/iagj4344-code/StudioX-Ultimate/main/script.lua"))()
